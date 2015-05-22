@@ -1,0 +1,9 @@
+{
+	"name": "Alphatrainer_android_push_notification",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"node-gcm": "latest",
+        "url": "latest"
+	}
+}
